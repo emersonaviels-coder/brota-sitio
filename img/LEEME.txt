@@ -1,0 +1,8 @@
+Fotos de Brota (opcionales). Si no existen, el sitio muestra las ilustraciones de respaldo.
+
+  2.png            -> diapositiva 1 del carrusel (maceta con luz verde)
+  1.png            -> diapositiva 2 del carrusel (maceta con luz amarilla)
+  3.png            -> diapositiva 3 del carrusel (repisa con tres macetas)
+  foto-producto.jpg -> sección "El producto" (corte de la maceta, proporción 800 x 520)
+
+Usa fotos propias o de bancos gratuitos con permiso de uso (Unsplash, Pexels, Pixabay).

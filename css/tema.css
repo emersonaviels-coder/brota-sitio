@@ -1,0 +1,35 @@
+/* Brota - tema oscuro (se activa con data-tema="dark" en <html>) */
+:root[data-tema="dark"] {
+  --fondo: #11181C;
+  --panel: #1B262B;
+  --linea: #7FA899;
+  --sombra: #04080A;
+  --suave: #233A33;
+  --texto: #EAEFEB;
+  --tenue: #A8BDB3;
+  --enlace: #8ED6B5;
+  --foco: #F2B84B;
+  --s1: #1E3A31;
+  --s2: #463813;
+  --s3: #1D303A;
+}
+
+:root[data-tema="dark"] .ic .luna {
+  display: none
+}
+
+:root[data-tema="dark"] .ic .sol {
+  display: block
+}
+
+:root[data-tema="dark"] th {
+  background: #2A5246
+}
+
+:root[data-tema="dark"] .puntos button {
+  border-color: #EAEFEB
+}
+
+:root[data-tema="dark"] .puntos button[aria-current="true"] {
+  background: #EAEFEB
+}
